@@ -1,0 +1,33 @@
+1 # CHECKLIST PARA GERAR ARTIGOS
+2 - [  ] Definir o assunto
+3 - [  ] Titulo chamativo: Headline 
+4 - [  ] Imagem de capa chamativa 
+5 - [  ] Blocos do artigo 
+6 - Postar o artigo com um Call to Action 
+
+
+## Assunto 
+      - Gen IA
+        -- Títulos : 1 O Potencial da Gen IA para Resolver Problemas Complexos da Sociedade
+
+
+deverá se  comportar como um editor de Artigo especializados em Gen IA
+
+  O que é Gen AI 
+  Aplicabilidade da Gen AI
+  Definição de Problemas Complexos 
+  Como a Gen AI pode  resolver os pronlemas complexos
+
+
+Regras 
+ - No máximo 5 linhas por blocos de solicitação
+ - Explicar de maneira informal como se eu fosse uma criança da 10 anos 
+ - Dê  exemplos usando trechos de códigos e as suas possíveis aplicações para aresoluçãos de problemas reais
+ - Colocar 3 hashtags que façam sentido 
+ - Fazer um Call to Acrion para as minhas redes sociais
+ 
+ 
+ 
+ 
+       
+   
